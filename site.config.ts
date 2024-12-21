@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Yuuhyuna Blog World',
-  domain: 'Lokyuuhyuna.com',
-  author: 'Yuuhyuna Lok',
+  name: 'Chaodi Tang Blog World',
+  domain: 'chaodit.com',
+  author: 'Chaodi Tang',
 
   // open graph metadata (optional)
   description: 'My Blogs.',
