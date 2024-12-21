@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Yuuhyuna's Blog World',
+  name: 'Yuuhyuna Blog World',
   domain: 'Lokyuuhyuna.com',
   author: 'Yuuhyuna Lok',
 
